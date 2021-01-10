@@ -1,12 +1,12 @@
-.intro h2 {
-  font-weight: bold;
-  color: blue;
-}
-.intro p {
-  font-size: small;
-  font-weight: normal;
-}
-.intro img {
+.intro {
   max-width: 100vw;
 }
 
+.intro h2 {
+  font-style: italic;
+  color: blue;
+}
+
+.intro img {
+  max-width: 99vw;
+}
